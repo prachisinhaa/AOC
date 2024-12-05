@@ -30,4 +30,4 @@ def part2():
 print(part1())
 print(part2())
 
-# 2024/day06.py
+# 2024/day01.py
